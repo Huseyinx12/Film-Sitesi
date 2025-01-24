@@ -1,4 +1,4 @@
-<h1> Film Sitesi </h1>
+<h1> <b> Film Sitesi </b> </h1>
 
 HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir web sitesi. Bu 
 
@@ -8,7 +8,7 @@ türlerine göre kategorilere ayrılmış içeriklere yüksek hızda erişim imk
 
 sunmaktadır.
 
-<h2> Kullandığım Teknolojiler </h2>
+<h2> <b> Kullandığım Teknolojiler </b> </h2>
 
 HTML
 
@@ -16,7 +16,7 @@ CSS
 
 JavaScript
 
-<h2> Önizleme</h2>
+<h2> <b> Önizleme </b> </h2>
 
 ![](movie-site.gif)
 
