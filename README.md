@@ -7,6 +7,7 @@ site, bir menü seçeneği, kullanıcıların hızlıca erişebileceği butonlar
 türlerine göre kategorilere ayrılmış içeriklere yüksek hızda erişim imkanı 
 
 sunmaktadır.
+
 <h2> Kullandığım Teknolojiler </h2>
 
 HTML
